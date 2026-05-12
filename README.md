@@ -22,7 +22,7 @@ Currently studying Systems for the Internet, I’m constantly improving my skill
 ### 🤖 Linguagens e Tecnologias
 
 ```javascript
-const robson = {
+const ricardo = {
   currentRole: "CTO @ Jungle Gaming",
   location: "Balneário Camboriú, SC, Brazil",
   expertise: ["Full-Stack Development", "Team Leadership", "Platform Architecture"],
