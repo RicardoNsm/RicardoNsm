@@ -18,13 +18,6 @@ Currently studying Systems for the Internet, I’m constantly improving my skill
 </p>
 
 
-const robson = {
-  currentRole: "CTO @ Jungle Gaming",
-  location: "Balneário Camboriú, SC, Brazil",
-  expertise: ["Full-Stack Development", "Team Leadership", "Platform Architecture"],
-  industries: ["iGaming", "E-commerce", "Crypto/Exchange"],
-  philosophy: "Build it right, build it to scale, build it to last"
-};
 
 ### 🤖 Linguagens e Tecnologias
 
