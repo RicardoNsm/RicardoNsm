@@ -54,3 +54,19 @@ const ricardo = {
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 </div>
+
+<h2>
+    📫 Let's Connect!
+</h2>
+
+<div align="center">
+
+### 📬 Let's Connect!
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-robsoncezario.com-5d5d5d?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=444444)](https://seu-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0077b5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=444444)](https://www.linkedin.com/in/ricknsm)
+[![Telegram](https://img.shields.io/badge/TELEGRAM-MESSAGE-26a5e4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=444444)](https://t.me/seu-usuario)
+
+[![Email](https://img.shields.io/badge/EMAIL-contact@robsoncezario.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=444444)](mailto:seu-email@gmail.com)
+
+</div>
