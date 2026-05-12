@@ -44,9 +44,7 @@ const ricardo = {
 ### Backend
 
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/.NET_Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### Database & Tools
 
