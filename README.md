@@ -1,4 +1,6 @@
-# 👩🏻‍💻 Ricardo Nascimento
+Hey there! I'm Ricardo Nascimento 👋
+
+---
 
 **`Desenvolvedor FullStack`**
 
