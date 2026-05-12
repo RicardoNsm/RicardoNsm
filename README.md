@@ -21,7 +21,7 @@ Currently studying Systems for the Internet, I’m constantly improving my skill
 
 ```javascript
 const ricardo = {
-  currentRole: "estudan",
+  currentRole: "student",
   location: "Abreu e Lima, PE, Brazil",
   expertise: ["Full-Stack Development"],
   philosophy: "Clean code. Scalable systems. Resilient architecture."
@@ -65,8 +65,7 @@ const ricardo = {
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-robsoncezario.com-5d5d5d?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=444444)](https://seu-portfolio.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0077b5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=444444)](https://www.linkedin.com/in/ricknsm)
-[![Telegram](https://img.shields.io/badge/TELEGRAM-MESSAGE-26a5e4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=444444)](https://t.me/seu-usuario)
 
-[![Email](https://img.shields.io/badge/EMAIL-contact@robsoncezario.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=444444)](mailto:seu-email@gmail.com)
+[![Email](https://img.shields.io/badge/EMAIL-contact@robsoncezario.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=444444)](mailto:rick83066@gmail.com)
 
 </div>
