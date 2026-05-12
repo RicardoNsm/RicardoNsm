@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Ricardo Nascimento
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Ricardo Nascimento, tenho 19 anos e sou natural de Pernambuco. Atualmente, estou cursando Sistemas para Internet no IFPE. Sou apaixonado por tecnologia
 
