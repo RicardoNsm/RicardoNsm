@@ -61,8 +61,6 @@ const ricardo = {
 
 <div align="center">
 
-### 📬 Let's Connect!
-
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-robsoncezario.com-5d5d5d?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=444444)](https://seu-portfolio.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0077b5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=444444)](https://www.linkedin.com/in/ricknsm)
 
