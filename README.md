@@ -55,6 +55,15 @@ const ricardo = {
 ![Prisma](https://img.shields.io/badge/Prisma-FF4DB8?style=for-the-badge&logo=prisma&logoColor=white)
 </div>
 
+## 🌟 What I'm Working On
+
+- 🛒 Building the MarketHub platform (fullstack application)
+- ⚙️ Developing scalable backend services with NestJS
+- 🧩 Implementing features like products, favorites, and cart modules
+- 🗄️ Working with databases and API architecture
+- 🚀 Improving performance and code structure in real-world projects
+
+  
 <h2>
     📫 Let's Connect!
 </h2>
