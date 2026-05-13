@@ -72,5 +72,5 @@ const ricardo = {
 ---
 
 <p align="center">
-  💡 "Innovation distinguishes between a leader and a follower." - Steve Jobs <br>
+  💡 "First, solve the problem. Then, write the code." - John Johnson <br>
 </p>
