@@ -72,6 +72,6 @@ const ricardo = {
 ---
 
 <p align="center">
-  💡 "Innovation distinguishes between a leader and a follower." <br>
-  <strong>— Steve Jobs</strong>
+  💡 "Innovation distinguishes between a leader and a follower." — Steve Jobs <br>
+— Steve Jobs
 </p>
