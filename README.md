@@ -68,3 +68,10 @@ const ricardo = {
 [![Email](https://img.shields.io/badge/EMAIL-contact@ricardonsm.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=444444)](mailto:rick83066@gmail.com)
 
 </div>
+
+<div align="center">
+
+> "Stay hungry, stay foolish."  
+> — Steve Jobs
+
+</div>
