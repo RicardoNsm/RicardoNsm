@@ -69,9 +69,9 @@ const ricardo = {
 
 </div>
 
-<div align="center">
+---
 
-> "Stay hungry, stay foolish."  
-> — Steve Jobs
-
-</div>
+<p align="center">
+  💡 "Innovation distinguishes between a leader and a follower." <br>
+  <strong>— Steve Jobs</strong>
+</p>
