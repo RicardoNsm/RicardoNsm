@@ -80,5 +80,5 @@ const ricardo = {
 ---
 
 <p align="center">
-  💡 "First, solve the problema. Then, write the code." - John Johnson <br>
+  💡 "First, solve the problem. Then, write the code." - John Johnson <br>
 </p>
